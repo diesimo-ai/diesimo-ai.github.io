@@ -1,1 +1,1 @@
-# This a readme file for Diesimov blog
+# This a readme file for diesimo blog

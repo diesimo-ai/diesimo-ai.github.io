@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Diesimov
+title: diesimo
 # email: a.diela.pro@gmail.com
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Tech & AI
-baseurl: "/diesimov/" # the subpath of your site, e.g. /blog
+  AI R&D solutions for Self-driving cars and robotics 🤖
+baseurl: "/diesimo" # the subpath of your site, e.g. /blog
 url: "https://afondiel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: dielabela_me
-linkedin_username: afonso-diela
-github_username:  afondiel
+twitter_username: diesimo_ai
+linkedin_username: diesimo-ai
+github_username:  diesimo-ai
 
 # Social Sharing
 # links:
