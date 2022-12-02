@@ -24,7 +24,7 @@ email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   AI R&D solutions for Self-driving cars and robotics 🤖
 baseurl: "/diesimo" # the subpath of your site, e.g. /blog
-url: "https://afondiel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://diesimo-ai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: diesimo_ai
 linkedin_username: diesimo-ai
 github_username:  diesimo-ai
